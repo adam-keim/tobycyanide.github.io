@@ -1,3 +1,17 @@
+Title,Baby Huey Amp
+Revision,A
+Date,2017-05-23
+Generated,Tuesday, September 05, 2017 'PMt' 12:11:03 PM
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,174
+Total Unique Parts,52
+
+
+
 Ref,Qty,Value,Footprint,MFN,MFP,Power,Type,Voltage,
 C201 C202 C401 C402 ,4,.1uF,,Cornell Dubilier,225P10494XD3, , ,400V
 C203 C403 ,2,1000uF,,Nichicon,LGG2C102MELZ40, , ,150V
@@ -5,7 +19,7 @@ C204 C404 ,2,2u2,,Kemet,C4GAFUC4220AA0J, ,Polypropylene,
 C302 C304 C502 C504 ,4,10nF,,Kemet,C4CAYUB2100AA0J, , ,2kV
 C307 C305 C507 C505 ,4,5uF,,Vishay,MKP1848C55090JK2, ,Polypropylene,900V
 C309 C509 ,2,2u2,,Kemet,C4GAFUC4220AA0J, , ,100V
-C303 C503 ,2,220uF,,Blackgate,STD220U50V, ,BlackGate,50V
+C303 C503 ,2,470uF,,Elna,RFS-50V471MJ8#5, ,Electrolytic,50V
 C306 C506 ,2,470uF,,Kemet,ELG477M450AT6AA, , ,450V
 C308 C508 ,2,22uF,,Kemet,ESK226M400AL4AA, , ,100V
 C301 C501 ,2,10000uF,,Nichicon,UVR1C103MHD, , , 
@@ -56,4 +70,4 @@ U203 U202 U403 U402 ,4,EL84,Valves:VALVE-NOVAL_P,JJ,EL84, , ,
 
 
 BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated Sunday, May 28, 2017 'PMt' 01:46:49 PM
+Generated Tuesday, September 05, 2017 'PMt' 12:11:03 PM
